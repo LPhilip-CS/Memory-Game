@@ -1,2 +1,2 @@
 # pyGame
- A memory game 
+ A memory game created in Python.
